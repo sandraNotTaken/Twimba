@@ -11,4 +11,4 @@ A Twitter-like web app built with vanilla JavaScript.
 - LocalStorage persistence
 
 ## Live Demo
-👉 https://sandraNotTaken.github.io/twimba/
+👉 https://sandraNotTaken.github.com/twimba/
